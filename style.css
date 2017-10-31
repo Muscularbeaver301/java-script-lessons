@@ -11,8 +11,8 @@ li{
 }
 
 .header{
-    background: S#f4f4f4;
-    border-bottom: #ccc 3px solid;
+    background: #eaebe5;
+    border-bottom: rgba(0, 0, 0, 0.993) 3px solid;
     padding: 20px;
 }
 
