@@ -1,1 +1,1 @@
-# java-script-lessons
+# this repo is for JS-training purposes
